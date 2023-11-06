@@ -154,7 +154,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors  
-Moses Gichia - [Github](https://github.com/fr13nd-x
+Moses Gichia - [Github](https://github.com/fr13nd-x)
 Abdullahi Mohamud - [Github](https://github.com/Abdullahi254) 
 ## License
 Public Domain. No copy write protection. 
